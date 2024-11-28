@@ -4,7 +4,7 @@ description: "Aprenda os fundamentos do JavaScript"
 difficulty: "beginner"
 order: 1
 initialCode: "// Escreva seu primeiro código aqui:\n"
-solution: "ola"
+solution: "console.log("ola")"
 ---
 
 # Bem-vindo ao Mundo da Programação!
@@ -25,7 +25,7 @@ JavaScript tem uma história fascinante:
 Em JavaScript, usamos `console.log()` para mostrar mensagens no console:
 
 ```javascript
-console.log("Olá, mundo!");
+console.log("ola");
 ```
 
 Este comando é como mandar uma mensagem para o computador mostrar na tela!
