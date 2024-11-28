@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Functions"
+title: "JavaScript variables"
 description: "Learn about variables in JavaScript"
 difficulty: "beginner"
 order: 1
