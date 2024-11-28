@@ -4,7 +4,7 @@ description: "Aprenda os fundamentos do JavaScript"
 difficulty: "beginner"
 order: 1
 initialCode: "// Escreva seu primeiro código aqui:\n"
-solution: "Olá, mundo!"
+solution: "ola"
 ---
 
 # Bem-vindo ao Mundo da Programação!
