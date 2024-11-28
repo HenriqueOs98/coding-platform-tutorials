@@ -1,10 +1,10 @@
 ---
-title: "JavaScript variables"
+title: "JavaScript Functions"
 description: "Learn about variables in JavaScript"
 difficulty: "beginner"
 order: 1
 initialCode: "let x = 0;\n// Your code here"
-solution: 'console.log("ola")'
+solution: "let x = 42;\nconsole.log(x);"
 ---
 
 # JavaScript Variables
